@@ -1,0 +1,80 @@
+{
+  "input": "Normal UI HINT, LIGHT, SUN buttons and mirror number keys; no authored-answer injection. Stages 1, 2 and 15 also cleared using pointer taps at 390 × 844.",
+  "stages": [
+    {
+      "detail": "First Light · 1 move · goal 1 · 1s exploring",
+      "level": 1,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Little Zigzag · 2 moves · goal 2 · 2s exploring",
+      "level": 2,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Around the Hedge · 2 moves · goal 2 · 2s exploring",
+      "level": 3,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Three Little Turns · 3 moves · goal 3 · 2s exploring",
+      "level": 4,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "A Spare Reflection · 3 moves · goal 3 · 2s exploring",
+      "level": 5,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Coral or Cyan · 4 moves · goal 4 · 2s exploring",
+      "level": 6,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Through the Filter · 4 moves · goal 4 · 2s exploring",
+      "level": 7,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Double Bloom · 4 moves · goal 4 · 2s exploring",
+      "level": 8,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Secret Garden · 4 moves · goal 4 · 2s exploring",
+      "level": 9,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Split Sunshine · 6 moves · goal 6 · 3s exploring",
+      "level": 10,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Open Sesame · 7 moves · goal 7 · 3s exploring",
+      "level": 11,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Three Wishes · 7 moves · goal 7 · 3s exploring",
+      "level": 12,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "The Dark Side · 10 moves · goal 10 · 4s exploring",
+      "level": 13,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Color Orchestra · 10 moves · goal 10 · 4s exploring",
+      "level": 14,
+      "title": "Full bloom!"
+    },
+    {
+      "detail": "Full Bloom · 10 moves · goal 10 · 4s exploring",
+      "level": 15,
+      "title": "You mastered this world!"
+    }
+  ]
+}

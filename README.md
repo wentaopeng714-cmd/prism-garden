@@ -1,8 +1,8 @@
 # Prism Garden
 
-Prism Garden (鹿鹿光棱花园) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.1.0.
+Prism Garden (鹿鹿光棱花园) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.2.0.
 
-**[Play online](https://wentaopeng714-cmd.github.io/prism-garden/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/prism-garden/releases/download/v1.1.0/prism-garden-v1.1.0.zip)**
+**[Play online](https://wentaopeng714-cmd.github.io/prism-garden/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/prism-garden/releases/download/v1.2.0/prism-garden-v1.2.0.zip)**
 
 ![Game preview](previews/prism-garden-play.png)
 
@@ -25,6 +25,14 @@ Procedural rounded models preserve the miniature toy style and elevated view. Mo
 Coral, violet, turquoise, yellow and hot pink create stronger separation against cream and navy. Each game has its own dominant color. Character galleries, mission cards, a separate level picker, compact HUD, contextual cooking actions and large touch controls replace the previous centered level-grid layout.
 
 Distance-based walking, ground contact, acceleration lean, spring reactions, blinking, accessory follow-through, cart drift trails, turbo particles, cooking steam, mirror turns, blooming flowers, following rescued ducks and fruit landing rings provide action feedback. Synthesized audio starts after interaction and can be muted. Models are generated locally in code; Three.js is bundled under the MIT license in `THREE-LICENSE.txt`.
+
+## Prism Garden 1.2: readable, untimed puzzles
+
+The first garden now teaches one mirror on a larger board, and the second guides two successive turns. Light carries moving direction arrows. Lettered flowers have matching color badges and a live checklist; filters and shutters never share their cells. Luma watches from outside the beam path.
+
+Tap mirrors directly. LIGHT switches CORAL / CYAN; the filter makes GOLD; the splitter keeps a forward and upward branch; SUN opens the shutter. Lock mirrors cycle through two reflections and OFF. HINT highlights a legal next action without moving anything; UNDO restores the last board state. All gardens are untimed, with stars based on moves. Keyboard: mirror numbers 1–9, C for light, G for sun, H / Space for hint, Z for undo.
+
+All 15 stages cleared through normal browser UI and visible hints. Stages 1, 2 and 15 also cleared by pointer taps at 390 × 844. Layouts checked at small phone, portrait, landscape and desktop sizes; no physical phone performance claim. The solver was checked on all 15 original boards and 30 altered boards without authored answers.
 
 ## Five entrances, five compositions
 
