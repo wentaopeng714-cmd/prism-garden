@@ -1,8 +1,8 @@
 # Prism Garden
 
-Prism Garden (鹿鹿光棱花园) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.0.0.
+Prism Garden (鹿鹿光棱花园) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.0.1.
 
-**[Play online](https://wentaopeng714-cmd.github.io/prism-garden/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/prism-garden/releases/download/v1.0.0/prism-garden-v1.0.0.zip)**
+**[Play online](https://wentaopeng714-cmd.github.io/prism-garden/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/prism-garden/releases/download/v1.0.1/prism-garden-v1.0.1.zip)**
 
 ![Game preview](previews/prism-garden-play.png)
 
